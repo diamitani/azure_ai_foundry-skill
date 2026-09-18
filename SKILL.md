@@ -1,3 +1,9 @@
+---
+name: azure-ai-foundry
+description: >
+  Use this reference when the workflow-builder output needs a model recommendation, deployment note, or prompt orchestration plan through Azure AI Foundry. - `https://learn.microsoft.com/azure/foundry/foundry-models/how-to/use-foundry-models-claude` Use this skill when working with azure ai foundry tasks or workflows.
+---
+
 # Azure AI Foundry
 
 Use this reference when the workflow-builder output needs a model recommendation, deployment note, or prompt orchestration plan through Azure AI Foundry.
